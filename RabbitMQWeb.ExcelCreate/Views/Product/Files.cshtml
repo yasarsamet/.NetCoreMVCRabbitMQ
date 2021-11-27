@@ -1,0 +1,42 @@
+﻿@model List<UserFile>
+@{
+    ViewData["Title"] = "Files";
+}
+@section Scripts {
+    @*Buradaki yazdıgımız kodlar _Layout.cshtml de gözükecek @await RenderSectionAsync("Scripts", required: false) yazdıgımız için*@
+    <script>
+        $(document).ready(function () {
+            var hasStartCreateExcel = '@TempData["StartCreatingExcel"]';
+            if (hasStartCreateExcel) {
+                Swal.fire({
+                    position: 'top-end',
+                    icon: 'success',
+                    title: 'Excel Oluşturma İşlemi Başlamıştır. Bittiğinde bildiri alacaksınız',
+                    showConfirmButton: false, // Buton gözüksün diyoruz
+                    timer: 500, // Zaman veriyoruz
+                })
+            }
+        })
+    </script>
+}
+<h1>Files</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>File Name</th>
+            <th>Created Date</th>
+            <th>File Status</th>
+            <th>Dowload</th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.FileName</td>
+            <td>@item.GetCreatedDate</td>
+            <td>@item.FileStatus</td>
+            <td> <a href="~/files/@item.filePath" class="btn btn-primary @(item.FileStatus == FileStatus.Creating ? "disabled": "")">İndir </a></td>
+        </tr>
+
+    }
+</table>

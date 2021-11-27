@@ -1,0 +1,36 @@
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.exe
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.deps.json
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.runtimeconfig.json
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.runtimeconfig.dev.json
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.dll
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\ref\RabbitMQ.subscriber.dll
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.pdb
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.csprojAssemblyReference.cache
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.AssemblyInfoInputs.cache
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.AssemblyInfo.cs
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.csproj.CoreCompileInputs.cache
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.csproj.CopyComplete
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.dll
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\ref\RabbitMQ.subscriber.dll
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.pdb
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.genruntimeconfig.cache
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.AssemblyInfoInputs.cache
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.AssemblyInfo.cs
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.csproj.CoreCompileInputs.cache
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.dll
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\ref\RabbitMQ.subscriber.dll
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.pdb
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.exe
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.deps.json
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.runtimeconfig.json
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.runtimeconfig.dev.json
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.dll
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\ref\RabbitMQ.subscriber.dll
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.subscriber.pdb
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.genruntimeconfig.cache
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.csproj.AssemblyReference.cache
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMQ.subscriber\obj\Debug\net5.0\RabbitMQ.subscriber.csproj.CopyComplete

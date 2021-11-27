@@ -1,0 +1,36 @@
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.exe
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.deps.json
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.runtimeconfig.json
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.runtimeconfig.dev.json
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.dll
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\ref\RabbitMq.publisher.dll
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.pdb
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.csprojAssemblyReference.cache
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.AssemblyInfoInputs.cache
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.AssemblyInfo.cs
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.csproj.CoreCompileInputs.cache
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.csproj.CopyComplete
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.dll
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\ref\RabbitMq.publisher.dll
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.pdb
+D:\Visual Stuido Projeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.genruntimeconfig.cache
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.exe
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.deps.json
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.runtimeconfig.json
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.runtimeconfig.dev.json
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.dll
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\ref\RabbitMq.publisher.dll
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMq.publisher.pdb
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.AssemblyInfoInputs.cache
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.AssemblyInfo.cs
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.csproj.CoreCompileInputs.cache
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.dll
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\ref\RabbitMq.publisher.dll
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.pdb
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.genruntimeconfig.cache
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.csproj.AssemblyReference.cache
+D:\VisualStuidoProjeler\RabbitmQ\RabbitMq.publisher\obj\Debug\net5.0\RabbitMq.publisher.csproj.CopyComplete
